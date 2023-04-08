@@ -1,1 +1,1 @@
-const offerLink = "https://magnificecf.netlify.app/";
+const offerLink = "";
