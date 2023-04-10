@@ -1,1 +1,1 @@
-const offerLink = "";
+const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbUxxdFVnS1BkZEd0em1qazN6WWQzanNPT19od3xBQ3Jtc0ttcm41VUtlNFJzTk1NZHVDb2E4b0ZBS0ZPcGwzNDNsSi04aDZBNEh5UzR5YjJNSGdfM0xNTzZqUGx4cVh1VFFGOWpTOHBGelh5b1k1a0ZpbzJwSmVBRzJtRFlRYWdSanNEcW1tNGZFMFltNGhQM0t5dw&q=https%3A%2F%2Fglowingc.netlify.app%2F&html_redirect=1";
