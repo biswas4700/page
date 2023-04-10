@@ -1,1 +1,1 @@
-const offerLink = "";
+const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbW5OVHotMFVKRUFGcVJHMkxfaGZxdnhwckNrd3xBQ3Jtc0trcmZUOG9Kc2djcEIyVHpxY0NqbXQ3UkhFMllEejVEYllCcThQb255SFhxMF9KSUpNbl9ELURDcXdtUUtkcGZlQUJHaFBxM0FpM1JNSnNxSnFFVi04N2owd0R1bG5qVVNUT3RPa29tem5PTXRKNG9KQQ&q=https%3A%2F%2Fstunningc.netlify.app%2F&html_redirect=1";
