@@ -1,1 +1,1 @@
-const offerLink = "";
+const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqa3NDUDNSd3JrQjdDRFFRb1hoOU12SGxKT1E1d3xBQ3Jtc0trRDZ2Zk9xempQX19xc2VFVlFjWGtkeXBZeXY1TEgxYXdOajhPOS1TRk41bWhmWDVOSF9NY1VpYlpQcXZIbmxZbktScldhNFRIN0UxaklmMXV3SlEzMHhiSzFISkhpQ0RjcUNXbmJvbThoNGYzRGdydw&q=https%3A%2F%2Ftinyurl.com%2F2v8hza4c&html_redirect=1";
