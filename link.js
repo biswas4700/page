@@ -1,1 +1,1 @@
-const offerLink = "";
+const offerLink = "https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqa2lJZ3JMMGdUak1GT2xnS19ZM2NLN2N5Q3JBUXxBQ3Jtc0ttQ29FQ3R6aU9ISC1tcndJdG8zRUQ0bnJQbGNscjlsb3dFMWo5M09DUmM5V3JReGEzTzF2WkppbmtZZldsNGJLbDJDSWI5eVYtVUlkY0RvV3ZOMEhJNEotZmdwX0JfSDFES3NyRDdrWVV6dDdkNHNWcw&q=https%3A%2F%2Fwww.findnewsom.xyz%2FSC2JFMnnrS&html_redirect=1";
