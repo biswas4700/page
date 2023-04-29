@@ -1,1 +1,1 @@
-const offerLink = "";
+const offerLink = "https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbVVfSzBVYmNwaW5obFU1RFNIeUJuR3RxTnA2Z3xBQ3Jtc0tsaEtjRGpDQ1pFWjJQejA1Xzk3V0NPS0UzdHU1Q2ZRaENPZUhuUjhUaDNGOFQxdnlrSkczSFMyRUNfZ0t5c1dKMDRKQlh1dUVmT3NyUWtwXy14MHR6S0hIQkNlbVZzelk5UHB1RTMxeHU0UkNrOEVxZw&q=https%3A%2F%2Fxyzfyvg.page.link%2FXktS&html_redirect=1";
